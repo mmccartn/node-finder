@@ -1,0 +1,17 @@
+{
+  "name": "node-finder",
+  "version": "0.1.0",
+  "description": "Find nodes all unique nodes in a GeoJSON track",
+  "private": false,
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node ./main.js"
+  },
+  "author": "mmccartn",
+  "license": "MIT",
+  "dependencies": {
+    "argparse": "^1.0.10",
+    "paint-console": "0.0.1"
+  }
+}
